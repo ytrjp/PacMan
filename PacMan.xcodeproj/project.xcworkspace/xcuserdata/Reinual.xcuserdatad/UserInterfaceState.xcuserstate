@@ -40404,10 +40404,10 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>327423478.69646502</real>
-		<string>{522, 2242}</string>
-		<string>{847, 134}</string>
-		<string>-init</string>
+		<real>327431213.841712</real>
+		<string>{4255, 1930}</string>
+		<string>{4312, 0}</string>
+		<string>@implementation PacManLayer</string>
 		<string>Xcode.IDEKit.EditorDocument.SourceCode</string>
 		<dict>
 			<key>$class</key>
@@ -72396,9 +72396,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>327423478.69556898</real>
-		<string>{522, 2242}</string>
-		<string>{847, 134}</string>
+		<real>327431213.84085703</real>
+		<string>{4255, 1930}</string>
+		<string>{4312, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
